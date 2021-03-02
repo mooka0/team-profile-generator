@@ -8,4 +8,6 @@ Npm init to set up project, install inquirer with npm i inquirer and jest with n
 # Visual 
 <img width="928" alt="Screen Shot 2021-03-02 at 12 11 30 PM" src="https://user-images.githubusercontent.com/66394427/109711019-3cf31e00-7b53-11eb-9660-23064ec01741.png"> <br>
 # Set Up
-https://github.com/mooka0/team-profile-generator
+https://github.com/mooka0/team-profile-generator <br>
+# Screen Recording
+https://drive.google.com/file/d/1-bgnpv-XwlSHO2hXtgxk2qI5nw3_kjOw/view
