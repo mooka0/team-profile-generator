@@ -88,7 +88,8 @@ function addMember() {
 // }
 
 function startHtml() {
-    const html = `<!DOCTYPE html>
+    const html = `
+    <!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -108,7 +109,6 @@ function startHtml() {
             console.log(err);
         }
     });
-    console.log("start");
 }
 
 function addHtml(member) {
